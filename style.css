@@ -1,0 +1,101 @@
+/*
+===========================>
+KAROL MOISÉS GUTIÉRREZ RÍOS
+Professional en Coding
+Devf
+===========================>
+Style.css
+*/
+
+/*
+Estilos CSS
+*/
+
+
+.bgPokemon {
+
+    background: rgb(193, 208, 255);
+    background: linear-gradient(90deg, rgba(193, 208, 255, 1) 21%, rgba(174, 197, 255, 1) 53%, rgba(210, 223, 251, 1) 80%);
+
+}
+
+
+
+body {
+
+    background: rgb(117, 192, 244);
+    background: linear-gradient(90deg, rgba(117, 192, 244, 1) 21%, rgba(113, 179, 236, 1) 53%, rgba(98, 192, 245, 1) 80%);
+
+}
+
+.backgroundPokemon {
+
+    background-image: url(imagenFondo.jpg);
+    background-size: 100%;
+    float: right;
+    
+}
+
+.margin-top {
+
+    margin-top: 80px;
+    padding: 10px;
+    /*border: black solid 5px;*/
+    width: 100%;
+    height: auto;
+
+}
+
+.margin-top-one {
+
+    margin-top: 5px;
+    padding-top: 5px;
+    /*border:black solid 5px;*/
+    text-align: left;
+
+}
+
+.borde-consulta {
+
+    border: rgb(100, 216, 33) solid 1px;
+    border-radius: 20px;
+
+}
+
+.margin-top-two {
+    
+    margin-top: 20px;
+    padding-top: 20px;
+    border: black solid 5px;
+
+}
+
+.centrar-texto {
+    
+    text-align: center;
+
+}
+
+.izq-texto {
+    
+    text-align: left;
+
+}
+
+.font {
+    
+    font-weight: bold;
+
+}
+
+.fondo-consulta {
+  
+    background: #5497A7;
+    
+}
+
+.borde-navbar {
+
+    border: black solid 1px;
+
+}
